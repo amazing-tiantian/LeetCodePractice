@@ -1,2 +1,2 @@
 # LeetCodePractice
-*This repositionary stores my practicing code on LeetCode.
+* This repositionary stores my practicing code on LeetCode.
